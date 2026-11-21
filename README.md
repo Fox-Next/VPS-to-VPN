@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="docs/assets/11.png" alt="Fox Next Logo" width="96">
+  <img src="docs/assets/12.png" alt="Fox Next Logo" width="96">
 </p>
 
 <h1 align="center">VPS to VPN</h1>
 
 <p align="center">
-  <strong>Server Installer &amp; Manager · Black Fox Group</strong><br>
+  <strong>Server Installer &amp; Manager · Fox Next</strong><br>
   Windows desktop console · 3X-UI (Sanaei) · Xray reverse mesh paths
 </p>
 
@@ -26,7 +26,7 @@
 
 # English
 
-Black Fox Group is the company that makes VPS to VPN. Official website: https://foxnext.net
+Fox Nexxt is the company that makes VPS to VPN. Official website: https://foxnext.net
 
 VPS to VPN runs on Windows and Android. You connect to a VPS, install the 3X-UI Sanaei panel without Linux knowledge, and build a multi-location VPN.
 
@@ -34,7 +34,7 @@ Official downloads: https://foxnext.net/en/download.html
 
 ## What this product is
 
-VPS to VPN (Black Fox Group) is a Windows operations console for multi-server VPN setups.
+VPS to VPN (Fox Nexxt) is a Windows operations console for multi-server VPN setups.
 
 You use it to:
 
@@ -44,7 +44,7 @@ You use it to:
 - Change link type, apply Watchdog, and run Link Monitor from Server Connection Manager
 - Run Basic or Pro licensing
 - Move Central, work with domain/CDN helpers, bots, and license reactivation
-- Activate AI Assistant Pro and hand those jobs to the Black Fox Group AI agent in chat
+- Activate AI Assistant Pro and hand those jobs to the Fox Nexxt AI agent in chat
 
 It is aimed at operators who want several egress locations and do not want to do every Linux step by hand.
 
@@ -118,7 +118,7 @@ The same tab has Topology, Mesh Links status, and the Active Link Monitor list.
 |------|--------|
 | Basic | Central plus a limited set of Exit slots |
 | Pro | Full chain (Tunnel/Node), Mesh Manager, Domain/CDN on Windows, Move Central |
-| AI Assistant Pro | In-app Black Fox Group agent: you ask in chat and confirm before a server change |
+| AI Assistant Pro | In-app Fox Nexxt agent: you ask in chat and confirm before a server change |
 
 ### Other features
 
@@ -130,7 +130,7 @@ The same tab has Topology, Mesh Links status, and the Active Link Monitor list.
 
 ### AI Assistant Pro
 
-AI Assistant Pro is a Black Fox Group license inside the app. After you activate it, you can leave most console work to the in-app AI agent: add Central, Tunnel, Exit, or Node, install 3X-UI, mesh, domain and CDN, diagnose and repair, and other tasks the program already does. You type the request in chat (or attach a note or photo). The agent confirms before it changes a server.
+AI Assistant Pro is a Fox Nexxt license inside the app. After you activate it, you can leave most console work to the in-app AI agent: add Central, Tunnel, Exit, or Node, install 3X-UI, mesh, domain and CDN, diagnose and repair, and other tasks the program already does. You type the request in chat (or attach a note or photo). The agent confirms before it changes a server.
 
 ## Activation and payment methods
 
@@ -166,15 +166,15 @@ English, Persian, Russian, Chinese, German, Uzbek, Turkish, Indonesian, Ukrainia
 
 ### Transparency and privacy in VPS to VPN
 
-Black Fox Group treats user privacy, transparent behavior, and control of information as core software-development principles.
+Fox Nexxt treats user privacy, transparent behavior, and control of information as core software-development principles.
 
-You should be able to understand how the app works, which information is exchanged, and when it connects to Black Fox Group services.
+You should be able to understand how the app works, which information is exchanged, and when it connects to Fox Nexxt services.
 
 #### Your server information stays under your control
 
-The app manages server connection details and configuration on your own system. It does not send your server inventory to Black Fox Group for storage or retention. Online connections are made only for features that need an online service.
+The app manages server connection details and configuration on your own system. It does not send your server inventory to Fox Nexxt for storage or retention. Online connections are made only for features that need an online service.
 
-Black Fox Group receives no server information or configuration from the user.
+Fox Nexxt receives no server information or configuration from the user.
 
 #### How online connections work
 
@@ -216,7 +216,7 @@ Roadmap / whitepaper:
 
 # فارسی
 
-شرکت Black Fox Group سازنده محصول VPS to VPN است. وب‌سایت رسمی: https://foxnext.net
+شرکت Fox Nexxt سازنده محصول VPS to VPN است. وب‌سایت رسمی: https://foxnext.net
 
 برنامه روی ویندوز و اندروید اجرا می‌شود. به سرور VPS وصل می‌شوید، پنل 3X-UI سنایی را بدون دانش لینوکس نصب می‌کنید و یک VPN چندلوکیشن می‌سازید.
 
@@ -356,15 +356,15 @@ Roadmap / whitepaper:
 
 ### شفافیت و حریم خصوصی در VPS to VPN
 
-در Black Fox Group، حفظ حریم خصوصی کاربران، شفافیت عملکرد و کنترل اطلاعات از اصول اصلی توسعه نرم‌افزار هستند.
+در Fox Nexxt، حفظ حریم خصوصی کاربران، شفافیت عملکرد و کنترل اطلاعات از اصول اصلی توسعه نرم‌افزار هستند.
 
-شما باید بدانید برنامه چگونه کار می‌کند، چه اطلاعاتی مبادله می‌شود و چه زمانی با سرویس‌های Black Fox Group ارتباط برقرار می‌شود.
+شما باید بدانید برنامه چگونه کار می‌کند، چه اطلاعاتی مبادله می‌شود و چه زمانی با سرویس‌های Fox Nexxt ارتباط برقرار می‌شود.
 
 #### اطلاعات سرور شما در کنترل شماست
 
-برنامه اطلاعات اتصال و تنظیمات سرورها را روی سیستم خودتان مدیریت می‌کند. فهرست سرورهای شما برای ذخیره یا نگهداری به Black Fox Group ارسال نمی‌شود. ارتباط آنلاین فقط برای قابلیت‌هایی انجام می‌شود که به سرویس آنلاین نیاز دارند.
+برنامه اطلاعات اتصال و تنظیمات سرورها را روی سیستم خودتان مدیریت می‌کند. فهرست سرورهای شما برای ذخیره یا نگهداری به Fox Nexxt ارسال نمی‌شود. ارتباط آنلاین فقط برای قابلیت‌هایی انجام می‌شود که به سرویس آنلاین نیاز دارند.
 
-هیچ‌گونه اطلاعاتی از سرورها یا تنظیمات کاربر برای Black Fox Group ارسال نمی‌شود.
+هیچ‌گونه اطلاعاتی از سرورها یا تنظیمات کاربر برای Fox Nexxt ارسال نمی‌شود.
 
 #### ارتباطات آنلاین برنامه چگونه کار می‌کنند؟
 
@@ -401,7 +401,7 @@ Roadmap / whitepaper:
 
 # Русский
 
-Компания Black Fox Group выпускает VPS to VPN. Официальный сайт: https://foxnext.net
+Компания Fox Nexxt выпускает VPS to VPN. Официальный сайт: https://foxnext.net
 
 Программа работает на Windows и Android. Вы подключаетесь к VPS, ставите панель 3X-UI Sanaei без знания Linux и собираете VPN в нескольких локациях.
 
@@ -409,7 +409,7 @@ Roadmap / whitepaper:
 
 ## Что это
 
-VPS to VPN (Black Fox Group) — консоль для Windows, которой поднимают и ведут VPN на нескольких серверах.
+VPS to VPN (Fox Nexxt) — консоль для Windows, которой поднимают и ведут VPN на нескольких серверах.
 
 С ней можно:
 
@@ -419,7 +419,7 @@ VPS to VPN (Black Fox Group) — консоль для Windows, которой �
 - менять тип линка, включать Watchdog и Link Monitor в Server Connection Manager
 - работать в Basic или Pro
 - переносить Central, настраивать домен и CDN, ботов и повторную активацию лицензии
-- включить AI Assistant Pro и поручить эти задачи ИИ-агенту Black Fox Group в чате
+- включить AI Assistant Pro и поручить эти задачи ИИ-агенту Fox Nexxt в чате
 
 Рассчитана на операторов, которым нужны несколько точек выхода и которые не хотят каждый шаг в Linux делать вручную.
 
@@ -493,7 +493,7 @@ WireGuard, GRE и QUIC больше не первые транспорты mesh.
 |-------|--------|
 | Basic | Central и ограниченный набор слотов Exit |
 | Pro | Полная цепочка (Tunnel/Node), Mesh Manager, Domain/CDN на Windows, Move Central |
-| AI Assistant Pro | ИИ-агент Black Fox Group в чате; перед изменением сервера спрашивает подтверждение |
+| AI Assistant Pro | ИИ-агент Fox Nexxt в чате; перед изменением сервера спрашивает подтверждение |
 
 ### Прочее
 
@@ -505,7 +505,7 @@ WireGuard, GRE и QUIC больше не первые транспорты mesh.
 
 ### AI Assistant Pro
 
-AI Assistant Pro — лицензия Black Fox Group внутри приложения. После активации большую часть работы консоли можно отдать ИИ-агенту: добавить Central, Tunnel, Exit или Node, поставить 3X-UI, mesh, домен и CDN, диагностика и ремонт, и другие уже существующие операции. Запрос пишете в чат (или прикладываете файл или фото). Перед изменением сервера агент спрашивает подтверждение.
+AI Assistant Pro — лицензия Fox Nexxt внутри приложения. После активации большую часть работы консоли можно отдать ИИ-агенту: добавить Central, Tunnel, Exit или Node, поставить 3X-UI, mesh, домен и CDN, диагностика и ремонт, и другие уже существующие операции. Запрос пишете в чат (или прикладываете файл или фото). Перед изменением сервера агент спрашивает подтверждение.
 
 ## Активация и способы оплаты
 
@@ -541,15 +541,15 @@ AI Assistant Pro — лицензия Black Fox Group внутри прилож�
 
 ### Прозрачность и конфиденциальность в VPS to VPN
 
-Black Fox Group считает конфиденциальность пользователей, прозрачность работы и контроль информации основными принципами разработки.
+Fox Nexxt считает конфиденциальность пользователей, прозрачность работы и контроль информации основными принципами разработки.
 
-Вы должны понимать, как работает приложение, какие данные передаются и когда оно подключается к сервисам Black Fox Group.
+Вы должны понимать, как работает приложение, какие данные передаются и когда оно подключается к сервисам Fox Nexxt.
 
 #### Информация о ваших серверах остаётся под вашим контролем
 
-Приложение управляет данными подключений и настройками серверов на вашей системе. Список ваших серверов не отправляется в Black Fox Group для хранения. Сетевые подключения выполняются только для функций, которым нужен онлайн-сервис.
+Приложение управляет данными подключений и настройками серверов на вашей системе. Список ваших серверов не отправляется в Fox Nexxt для хранения. Сетевые подключения выполняются только для функций, которым нужен онлайн-сервис.
 
-Black Fox Group не получает от пользователя сведения о серверах или их настройках.
+Fox Nexxt не получает от пользователя сведения о серверах или их настройках.
 
 #### Как работают онлайн-подключения
 
@@ -586,7 +586,7 @@ Black Fox Group не получает от пользователя сведен
 
 # 中文
 
-Black Fox Group 是开发 VPS to VPN 的公司。官网：https://foxnext.net
+Fox Nexxt 是开发 VPS to VPN 的公司。官网：https://foxnext.net
 
 程序可在 Windows 和 Android 上使用。连上 VPS 后，不必懂 Linux 也能安装 3X-UI Sanaei 面板，并搭好多地点 VPN。
 
@@ -594,7 +594,7 @@ Black Fox Group 是开发 VPS to VPN 的公司。官网：https://foxnext.net
 
 ## 这是什么
 
-VPS to VPN（Black Fox Group）是一套 Windows 运维控制台，用来部署和管理多台 VPN 服务器。
+VPS to VPN（Fox Nexxt）是一套 Windows 运维控制台，用来部署和管理多台 VPN 服务器。
 
 可以做这些事：
 
@@ -604,7 +604,7 @@ VPS to VPN（Black Fox Group）是一套 Windows 运维控制台，用来部署�
 - 在 Server Connection Manager 里改链路类型、加 Watchdog 和 Link Monitor
 - 使用 Basic 或 Pro 许可
 - 迁移 Central、处理域名/CDN、机器人和许可重新激活
-- 开通 AI Assistant Pro，把这些事交给聊天里的 Black Fox Group 智能体
+- 开通 AI Assistant Pro，把这些事交给聊天里的 Fox Nexxt 智能体
 
 面向需要多出口、又不想把每一步 Linux 都手搓一遍的运维。
 
@@ -678,7 +678,7 @@ WireGuard 的后备是 SSH。
 |------|------|
 | Basic | Central 和有限的 Exit 槽 |
 | Pro | 完整链路（Tunnel/Node）、Mesh Manager、Windows 上的 Domain/CDN、Move Central |
-| AI Assistant Pro | 聊天里的 Black Fox Group 智能体；改服务器前先确认 |
+| AI Assistant Pro | 聊天里的 Fox Nexxt 智能体；改服务器前先确认 |
 
 ### 其他
 
@@ -690,7 +690,7 @@ WireGuard 的后备是 SSH。
 
 ### AI Assistant Pro
 
-AI Assistant Pro 是应用内的 Black Fox Group 许可。开通后，可以把控制台里大部分工作交给智能体：添加 Central、Tunnel、Exit、Node，安装 3X-UI，mesh，域名和 CDN，诊断和修复，以及程序本身已有的其他操作。在聊天里写需求（或附上文件、照片）。改服务器前智能体会先确认。
+AI Assistant Pro 是应用内的 Fox Nexxt 许可。开通后，可以把控制台里大部分工作交给智能体：添加 Central、Tunnel、Exit、Node，安装 3X-UI，mesh，域名和 CDN，诊断和修复，以及程序本身已有的其他操作。在聊天里写需求（或附上文件、照片）。改服务器前智能体会先确认。
 
 ## 激活方式与付款方式
 
@@ -726,15 +726,15 @@ AI Assistant Pro 是应用内的 Black Fox Group 许可。开通后，可以把�
 
 ### VPS to VPN 的透明度与隐私
 
-Black Fox Group 将用户隐私、运行透明度和信息控制视为软件开发的核心原则。
+Fox Nexxt 将用户隐私、运行透明度和信息控制视为软件开发的核心原则。
 
-你应当能够了解应用如何工作、交换哪些信息，以及它何时连接 Black Fox Group 的服务。
+你应当能够了解应用如何工作、交换哪些信息，以及它何时连接 Fox Nexxt 的服务。
 
 #### 你的服务器信息由你控制
 
-应用在你自己的系统上管理服务器连接信息和配置。它不会把你的服务器清单发送给 Black Fox Group 用于存储或保留。联网只在某项功能需要在线服务时发生。
+应用在你自己的系统上管理服务器连接信息和配置。它不会把你的服务器清单发送给 Fox Nexxt 用于存储或保留。联网只在某项功能需要在线服务时发生。
 
-Black Fox Group 不会从用户接收服务器信息或服务器配置。
+Fox Nexxt 不会从用户接收服务器信息或服务器配置。
 
 #### 应用如何进行在线连接
 
