@@ -17,7 +17,7 @@
   <a href="https://foxnext.net">Website</a> ·
   <a href="https://t.me/Black_Fox_Group">Telegram</a> ·
   <a href="https://t.me/Hiblackfox">Support</a> ·
-  <a href="https://github.com/Fox-Nexxt/VPS-to-VPN">GitHub</a>
+  <a href="https://github.com/Fox-Next/VPS-to-VPN">GitHub</a>
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 # English
 
-Fox Nexxt is the company that makes VPS to VPN. Official website: https://foxnext.net
+Fox Next is the company that makes VPS to VPN. Official website: https://foxnext.net
 
 VPS to VPN runs on Windows and Android. You connect to a VPS, install the 3X-UI Sanaei panel without Linux knowledge, and build a multi-location VPN.
 
@@ -34,7 +34,7 @@ Official downloads: https://foxnext.net/en/download.html
 
 ## What this product is
 
-VPS to VPN (Fox Nexxt) is a Windows operations console for multi-server VPN setups.
+VPS to VPN (Fox Next) is a Windows operations console for multi-server VPN setups.
 
 You use it to:
 
@@ -44,7 +44,7 @@ You use it to:
 - Change link type, apply Watchdog, and run Link Monitor from Server Connection Manager
 - Run Basic or Pro licensing
 - Move Central, work with domain/CDN helpers, bots, and license reactivation
-- Activate AI Assistant Pro and hand those jobs to the Fox Nexxt AI agent in chat
+- Activate AI Assistant Pro and hand those jobs to the Fox Next AI agent in chat
 
 It is aimed at operators who want several egress locations and do not want to do every Linux step by hand.
 
@@ -52,14 +52,14 @@ It is aimed at operators who want several egress locations and do not want to do
 
 | Platform | Product | Status | Download |
 |----------|---------|--------|----------|
-| Windows | VPS to VPN v3.2.2 installer | Available | [Setup.zip (GitHub)](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
-| Windows | VPS to VPN v3.2.2 portable | Available | [Portable.zip (GitHub)](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
-| Android | VPS to VPN Android v3.2.2 (arm64) | Available | [APK (GitHub)](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
+| Windows | VPS to VPN v3.2.2 installer | Available | [Setup.zip (GitHub)](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
+| Windows | VPS to VPN v3.2.2 portable | Available | [Portable.zip (GitHub)](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
+| Android | VPS to VPN Android v3.2.2 (arm64) | Available | [APK (GitHub)](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
 | Android | Black Fox Config Builder v1.1.4 | Available | [APK (foxnext.net)](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 | Android | Google Play | Coming soon | — |
 | macOS | VPS to VPN | Coming soon | — |
 
-Release files on GitHub: [Fox-Nexxt/VPS-to-VPN/releases](https://github.com/Fox-Nexxt/VPS-to-VPN/releases) (latest tag on GitHub Releases is `v3.2.0`; `v3.2.2` and Config Builder `v1.1.4` are live on `foxnext.net`).
+Release files on GitHub: [Fox-Next/VPS-to-VPN/releases](https://github.com/Fox-Next/VPS-to-VPN/releases) (latest tag on GitHub Releases is `v3.2.0`; `v3.2.2` and Config Builder `v1.1.4` are live on `foxnext.net`).
 
 ---
 
@@ -118,7 +118,7 @@ The same tab has Topology, Mesh Links status, and the Active Link Monitor list.
 |------|--------|
 | Basic | Central plus a limited set of Exit slots |
 | Pro | Full chain (Tunnel/Node), Mesh Manager, Domain/CDN on Windows, Move Central |
-| AI Assistant Pro | In-app Fox Nexxt agent: you ask in chat and confirm before a server change |
+| AI Assistant Pro | In-app Fox Next agent: you ask in chat and confirm before a server change |
 
 ### Other features
 
@@ -130,7 +130,7 @@ The same tab has Topology, Mesh Links status, and the Active Link Monitor list.
 
 ### AI Assistant Pro
 
-AI Assistant Pro is a Fox Nexxt license inside the app. After you activate it, you can leave most console work to the in-app AI agent: add Central, Tunnel, Exit, or Node, install 3X-UI, mesh, domain and CDN, diagnose and repair, and other tasks the program already does. You type the request in chat (or attach a note or photo). The agent confirms before it changes a server.
+AI Assistant Pro is a Fox Next license inside the app. After you activate it, you can leave most console work to the in-app AI agent: add Central, Tunnel, Exit, or Node, install 3X-UI, mesh, domain and CDN, diagnose and repair, and other tasks the program already does. You type the request in chat (or attach a note or photo). The agent confirms before it changes a server.
 
 ## Activation and payment methods
 
@@ -166,15 +166,15 @@ English, Persian, Russian, Chinese, German, Uzbek, Turkish, Indonesian, Ukrainia
 
 ### Transparency and privacy in VPS to VPN
 
-Fox Nexxt treats user privacy, transparent behavior, and control of information as core software-development principles.
+Fox Next treats user privacy, transparent behavior, and control of information as core software-development principles.
 
-You should be able to understand how the app works, which information is exchanged, and when it connects to Fox Nexxt services.
+You should be able to understand how the app works, which information is exchanged, and when it connects to Fox Next services.
 
 #### Your server information stays under your control
 
-The app manages server connection details and configuration on your own system. It does not send your server inventory to Fox Nexxt for storage or retention. Online connections are made only for features that need an online service.
+The app manages server connection details and configuration on your own system. It does not send your server inventory to Fox Next for storage or retention. Online connections are made only for features that need an online service.
 
-Fox Nexxt receives no server information or configuration from the user.
+Fox Next receives no server information or configuration from the user.
 
 #### How online connections work
 
@@ -201,7 +201,7 @@ The goal is software with transparent behavior that does not collect user inform
 
 Basic, Pro, and AI Assistant Pro licenses are sold through registration on [foxnext.net](https://foxnext.net).
 
-Public docs repo: [Fox-Nexxt/VPS-to-VPN](https://github.com/Fox-Nexxt/VPS-to-VPN)
+Public docs repo: [Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 Roadmap / whitepaper:
 
@@ -216,7 +216,7 @@ Roadmap / whitepaper:
 
 # فارسی
 
-شرکت Fox Nexxt سازنده محصول VPS to VPN است. وب‌سایت رسمی: https://foxnext.net
+شرکت Fox Next سازنده محصول VPS to VPN است. وب‌سایت رسمی: https://foxnext.net
 
 برنامه روی ویندوز و اندروید اجرا می‌شود. به سرور VPS وصل می‌شوید، پنل 3X-UI سنایی را بدون دانش لینوکس نصب می‌کنید و یک VPN چندلوکیشن می‌سازید.
 
@@ -242,14 +242,14 @@ Roadmap / whitepaper:
 
 | پلتفرم | محصول | وضعیت | دانلود |
 |--------|--------|--------|--------|
-| ویندوز | نصب‌کننده VPS to VPN نسخه ۳٫۲٫۲ | منتشر شده | [Setup.zip در گیت‌هاب](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
-| ویندوز | نسخه قابل‌حمل VPS to VPN نسخه ۳٫۲٫۲ | منتشر شده | [Portable.zip در گیت‌هاب](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
-| اندروید | VPS to VPN Android نسخه ۳٫۲٫۲ (arm64) | منتشر شده | [APK در گیت‌هاب](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
+| ویندوز | نصب‌کننده VPS to VPN نسخه ۳٫۲٫۲ | منتشر شده | [Setup.zip در گیت‌هاب](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
+| ویندوز | نسخه قابل‌حمل VPS to VPN نسخه ۳٫۲٫۲ | منتشر شده | [Portable.zip در گیت‌هاب](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
+| اندروید | VPS to VPN Android نسخه ۳٫۲٫۲ (arm64) | منتشر شده | [APK در گیت‌هاب](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
 | اندروید | Black Fox Config Builder نسخه ۱٫۱٫۴ | منتشر شده | [APK در foxnext.net](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 | اندروید | Google Play | به‌زودی | — |
 | مک | VPS to VPN | به‌زودی | — |
 
-فایل‌های انتشار در گیت‌هاب: [Fox-Nexxt/VPS-to-VPN/releases](https://github.com/Fox-Nexxt/VPS-to-VPN/releases) (آخرین تگ منتشرشده در Releases گیت‌هاب `v3.2.0` است؛ نسخه‌های `v3.2.2` و Config Builder `v1.1.4` روی `foxnext.net` قرار دارند).
+فایل‌های انتشار در گیت‌هاب: [Fox-Next/VPS-to-VPN/releases](https://github.com/Fox-Next/VPS-to-VPN/releases) (آخرین تگ منتشرشده در Releases گیت‌هاب `v3.2.0` است؛ نسخه‌های `v3.2.2` و Config Builder `v1.1.4` روی `foxnext.net` قرار دارند).
 
 ---
 
@@ -356,15 +356,15 @@ Roadmap / whitepaper:
 
 ### شفافیت و حریم خصوصی در VPS to VPN
 
-در Fox Nexxt، حفظ حریم خصوصی کاربران، شفافیت عملکرد و کنترل اطلاعات از اصول اصلی توسعه نرم‌افزار هستند.
+در Fox Next، حفظ حریم خصوصی کاربران، شفافیت عملکرد و کنترل اطلاعات از اصول اصلی توسعه نرم‌افزار هستند.
 
-شما باید بدانید برنامه چگونه کار می‌کند، چه اطلاعاتی مبادله می‌شود و چه زمانی با سرویس‌های Fox Nexxt ارتباط برقرار می‌شود.
+شما باید بدانید برنامه چگونه کار می‌کند، چه اطلاعاتی مبادله می‌شود و چه زمانی با سرویس‌های Fox Next ارتباط برقرار می‌شود.
 
 #### اطلاعات سرور شما در کنترل شماست
 
-برنامه اطلاعات اتصال و تنظیمات سرورها را روی سیستم خودتان مدیریت می‌کند. فهرست سرورهای شما برای ذخیره یا نگهداری به Fox Nexxt ارسال نمی‌شود. ارتباط آنلاین فقط برای قابلیت‌هایی انجام می‌شود که به سرویس آنلاین نیاز دارند.
+برنامه اطلاعات اتصال و تنظیمات سرورها را روی سیستم خودتان مدیریت می‌کند. فهرست سرورهای شما برای ذخیره یا نگهداری به Fox Next ارسال نمی‌شود. ارتباط آنلاین فقط برای قابلیت‌هایی انجام می‌شود که به سرویس آنلاین نیاز دارند.
 
-هیچ‌گونه اطلاعاتی از سرورها یا تنظیمات کاربر برای Fox Nexxt ارسال نمی‌شود.
+هیچ‌گونه اطلاعاتی از سرورها یا تنظیمات کاربر برای Fox Next ارسال نمی‌شود.
 
 #### ارتباطات آنلاین برنامه چگونه کار می‌کنند؟
 
@@ -391,7 +391,7 @@ Roadmap / whitepaper:
 
 لایسنس Basic، Pro و AI Assistant Pro از ثبت‌نام در [foxnext.net](https://foxnext.net) فروخته می‌شود.
 
-ریپوی عمومی اسناد: [Fox-Nexxt/VPS-to-VPN](https://github.com/Fox-Nexxt/VPS-to-VPN)
+ریپوی عمومی اسناد: [Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 نقشه راه و وایت‌پیپر: [docs/ROADMAP.fa.md](docs/ROADMAP.fa.md) · [docs/WHITEPAPER.fa.md](docs/WHITEPAPER.fa.md)
 
@@ -401,7 +401,7 @@ Roadmap / whitepaper:
 
 # Русский
 
-Компания Fox Nexxt выпускает VPS to VPN. Официальный сайт: https://foxnext.net
+Компания Fox Next выпускает VPS to VPN. Официальный сайт: https://foxnext.net
 
 Программа работает на Windows и Android. Вы подключаетесь к VPS, ставите панель 3X-UI Sanaei без знания Linux и собираете VPN в нескольких локациях.
 
@@ -409,7 +409,7 @@ Roadmap / whitepaper:
 
 ## Что это
 
-VPS to VPN (Fox Nexxt) — консоль для Windows, которой поднимают и ведут VPN на нескольких серверах.
+VPS to VPN (Fox Next) — консоль для Windows, которой поднимают и ведут VPN на нескольких серверах.
 
 С ней можно:
 
@@ -419,7 +419,7 @@ VPS to VPN (Fox Nexxt) — консоль для Windows, которой под�
 - менять тип линка, включать Watchdog и Link Monitor в Server Connection Manager
 - работать в Basic или Pro
 - переносить Central, настраивать домен и CDN, ботов и повторную активацию лицензии
-- включить AI Assistant Pro и поручить эти задачи ИИ-агенту Fox Nexxt в чате
+- включить AI Assistant Pro и поручить эти задачи ИИ-агенту Fox Next в чате
 
 Рассчитана на операторов, которым нужны несколько точек выхода и которые не хотят каждый шаг в Linux делать вручную.
 
@@ -427,14 +427,14 @@ VPS to VPN (Fox Nexxt) — консоль для Windows, которой под�
 
 | Платформа | Продукт | Статус | Скачать |
 |-----------|---------|--------|---------|
-| Windows | установщик VPS to VPN v3.2.2 | доступен | [Setup.zip (GitHub)](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
-| Windows | portable VPS to VPN v3.2.2 | доступен | [Portable.zip (GitHub)](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
-| Android | VPS to VPN Android v3.2.2 (arm64) | доступен | [APK (GitHub)](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
+| Windows | установщик VPS to VPN v3.2.2 | доступен | [Setup.zip (GitHub)](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
+| Windows | portable VPS to VPN v3.2.2 | доступен | [Portable.zip (GitHub)](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
+| Android | VPS to VPN Android v3.2.2 (arm64) | доступен | [APK (GitHub)](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
 | Android | Black Fox Config Builder v1.1.4 | доступен | [APK (foxnext.net)](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 | Android | Google Play | скоро | — |
 | macOS | VPS to VPN | скоро | — |
 
-Файлы релизов: [Fox-Nexxt/VPS-to-VPN/releases](https://github.com/Fox-Nexxt/VPS-to-VPN/releases) (тег `latest` на GitHub Releases сейчас указывает на `v3.2.0`; сборки `v3.2.2` и Config Builder `v1.1.4` доступны на `foxnext.net`).
+Файлы релизов: [Fox-Next/VPS-to-VPN/releases](https://github.com/Fox-Next/VPS-to-VPN/releases) (тег `latest` на GitHub Releases сейчас указывает на `v3.2.0`; сборки `v3.2.2` и Config Builder `v1.1.4` доступны на `foxnext.net`).
 
 ---
 
@@ -493,7 +493,7 @@ WireGuard, GRE и QUIC больше не первые транспорты mesh.
 |-------|--------|
 | Basic | Central и ограниченный набор слотов Exit |
 | Pro | Полная цепочка (Tunnel/Node), Mesh Manager, Domain/CDN на Windows, Move Central |
-| AI Assistant Pro | ИИ-агент Fox Nexxt в чате; перед изменением сервера спрашивает подтверждение |
+| AI Assistant Pro | ИИ-агент Fox Next в чате; перед изменением сервера спрашивает подтверждение |
 
 ### Прочее
 
@@ -505,7 +505,7 @@ WireGuard, GRE и QUIC больше не первые транспорты mesh.
 
 ### AI Assistant Pro
 
-AI Assistant Pro — лицензия Fox Nexxt внутри приложения. После активации большую часть работы консоли можно отдать ИИ-агенту: добавить Central, Tunnel, Exit или Node, поставить 3X-UI, mesh, домен и CDN, диагностика и ремонт, и другие уже существующие операции. Запрос пишете в чат (или прикладываете файл или фото). Перед изменением сервера агент спрашивает подтверждение.
+AI Assistant Pro — лицензия Fox Next внутри приложения. После активации большую часть работы консоли можно отдать ИИ-агенту: добавить Central, Tunnel, Exit или Node, поставить 3X-UI, mesh, домен и CDN, диагностика и ремонт, и другие уже существующие операции. Запрос пишете в чат (или прикладываете файл или фото). Перед изменением сервера агент спрашивает подтверждение.
 
 ## Активация и способы оплаты
 
@@ -541,15 +541,15 @@ AI Assistant Pro — лицензия Fox Nexxt внутри приложени�
 
 ### Прозрачность и конфиденциальность в VPS to VPN
 
-Fox Nexxt считает конфиденциальность пользователей, прозрачность работы и контроль информации основными принципами разработки.
+Fox Next считает конфиденциальность пользователей, прозрачность работы и контроль информации основными принципами разработки.
 
-Вы должны понимать, как работает приложение, какие данные передаются и когда оно подключается к сервисам Fox Nexxt.
+Вы должны понимать, как работает приложение, какие данные передаются и когда оно подключается к сервисам Fox Next.
 
 #### Информация о ваших серверах остаётся под вашим контролем
 
-Приложение управляет данными подключений и настройками серверов на вашей системе. Список ваших серверов не отправляется в Fox Nexxt для хранения. Сетевые подключения выполняются только для функций, которым нужен онлайн-сервис.
+Приложение управляет данными подключений и настройками серверов на вашей системе. Список ваших серверов не отправляется в Fox Next для хранения. Сетевые подключения выполняются только для функций, которым нужен онлайн-сервис.
 
-Fox Nexxt не получает от пользователя сведения о серверах или их настройках.
+Fox Next не получает от пользователя сведения о серверах или их настройках.
 
 #### Как работают онлайн-подключения
 
@@ -576,7 +576,7 @@ Fox Nexxt не получает от пользователя сведения �
 
 Лицензии Basic, Pro и AI Assistant Pro продаются через регистрацию на [foxnext.net](https://foxnext.net).
 
-Публичный репозиторий: [Fox-Nexxt/VPS-to-VPN](https://github.com/Fox-Nexxt/VPS-to-VPN)
+Публичный репозиторий: [Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 Дорожная карта и белая книга: [docs/ROADMAP.ru.md](docs/ROADMAP.ru.md) · [docs/WHITEPAPER.ru.md](docs/WHITEPAPER.ru.md)
 
@@ -586,7 +586,7 @@ Fox Nexxt не получает от пользователя сведения �
 
 # 中文
 
-Fox Nexxt 是开发 VPS to VPN 的公司。官网：https://foxnext.net
+Fox Next 是开发 VPS to VPN 的公司。官网：https://foxnext.net
 
 程序可在 Windows 和 Android 上使用。连上 VPS 后，不必懂 Linux 也能安装 3X-UI Sanaei 面板，并搭好多地点 VPN。
 
@@ -594,7 +594,7 @@ Fox Nexxt 是开发 VPS to VPN 的公司。官网：https://foxnext.net
 
 ## 这是什么
 
-VPS to VPN（Fox Nexxt）是一套 Windows 运维控制台，用来部署和管理多台 VPN 服务器。
+VPS to VPN（Fox Next）是一套 Windows 运维控制台，用来部署和管理多台 VPN 服务器。
 
 可以做这些事：
 
@@ -604,7 +604,7 @@ VPS to VPN（Fox Nexxt）是一套 Windows 运维控制台，用来部署和管�
 - 在 Server Connection Manager 里改链路类型、加 Watchdog 和 Link Monitor
 - 使用 Basic 或 Pro 许可
 - 迁移 Central、处理域名/CDN、机器人和许可重新激活
-- 开通 AI Assistant Pro，把这些事交给聊天里的 Fox Nexxt 智能体
+- 开通 AI Assistant Pro，把这些事交给聊天里的 Fox Next 智能体
 
 面向需要多出口、又不想把每一步 Linux 都手搓一遍的运维。
 
@@ -612,14 +612,14 @@ VPS to VPN（Fox Nexxt）是一套 Windows 运维控制台，用来部署和管�
 
 | 平台 | 产品 | 状态 | 下载 |
 |------|------|------|------|
-| Windows | VPS to VPN v3.2.2 安装包 | 已发布 | [Setup.zip（GitHub）](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
-| Windows | VPS to VPN v3.2.2 便携版 | 已发布 | [Portable.zip（GitHub）](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
-| Android | VPS to VPN Android v3.2.2（arm64） | 已发布 | [APK（GitHub）](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
+| Windows | VPS to VPN v3.2.2 安装包 | 已发布 | [Setup.zip（GitHub）](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
+| Windows | VPS to VPN v3.2.2 便携版 | 已发布 | [Portable.zip（GitHub）](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
+| Android | VPS to VPN Android v3.2.2（arm64） | 已发布 | [APK（GitHub）](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
 | Android | Black Fox Config Builder v1.1.4 | 已发布 | [APK（foxnext.net）](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 | Android | Google Play | 即将上线 | — |
 | macOS | VPS to VPN | 即将上线 | — |
 
-发布页：[Fox-Nexxt/VPS-to-VPN/releases](https://github.com/Fox-Nexxt/VPS-to-VPN/releases)（GitHub Releases 的最新标签目前仍为 `v3.2.0`；`v3.2.2` 与 Config Builder `v1.1.4` 已在 `foxnext.net` 上线）。
+发布页：[Fox-Next/VPS-to-VPN/releases](https://github.com/Fox-Next/VPS-to-VPN/releases)（GitHub Releases 的最新标签目前仍为 `v3.2.0`；`v3.2.2` 与 Config Builder `v1.1.4` 已在 `foxnext.net` 上线）。
 
 ---
 
@@ -678,7 +678,7 @@ WireGuard 的后备是 SSH。
 |------|------|
 | Basic | Central 和有限的 Exit 槽 |
 | Pro | 完整链路（Tunnel/Node）、Mesh Manager、Windows 上的 Domain/CDN、Move Central |
-| AI Assistant Pro | 聊天里的 Fox Nexxt 智能体；改服务器前先确认 |
+| AI Assistant Pro | 聊天里的 Fox Next 智能体；改服务器前先确认 |
 
 ### 其他
 
@@ -690,7 +690,7 @@ WireGuard 的后备是 SSH。
 
 ### AI Assistant Pro
 
-AI Assistant Pro 是应用内的 Fox Nexxt 许可。开通后，可以把控制台里大部分工作交给智能体：添加 Central、Tunnel、Exit、Node，安装 3X-UI，mesh，域名和 CDN，诊断和修复，以及程序本身已有的其他操作。在聊天里写需求（或附上文件、照片）。改服务器前智能体会先确认。
+AI Assistant Pro 是应用内的 Fox Next 许可。开通后，可以把控制台里大部分工作交给智能体：添加 Central、Tunnel、Exit、Node，安装 3X-UI，mesh，域名和 CDN，诊断和修复，以及程序本身已有的其他操作。在聊天里写需求（或附上文件、照片）。改服务器前智能体会先确认。
 
 ## 激活方式与付款方式
 
@@ -726,15 +726,15 @@ AI Assistant Pro 是应用内的 Fox Nexxt 许可。开通后，可以把控制�
 
 ### VPS to VPN 的透明度与隐私
 
-Fox Nexxt 将用户隐私、运行透明度和信息控制视为软件开发的核心原则。
+Fox Next 将用户隐私、运行透明度和信息控制视为软件开发的核心原则。
 
-你应当能够了解应用如何工作、交换哪些信息，以及它何时连接 Fox Nexxt 的服务。
+你应当能够了解应用如何工作、交换哪些信息，以及它何时连接 Fox Next 的服务。
 
 #### 你的服务器信息由你控制
 
-应用在你自己的系统上管理服务器连接信息和配置。它不会把你的服务器清单发送给 Fox Nexxt 用于存储或保留。联网只在某项功能需要在线服务时发生。
+应用在你自己的系统上管理服务器连接信息和配置。它不会把你的服务器清单发送给 Fox Next 用于存储或保留。联网只在某项功能需要在线服务时发生。
 
-Fox Nexxt 不会从用户接收服务器信息或服务器配置。
+Fox Next 不会从用户接收服务器信息或服务器配置。
 
 #### 应用如何进行在线连接
 
@@ -761,6 +761,6 @@ Fox Nexxt 不会从用户接收服务器信息或服务器配置。
 
 Basic、Pro 和 AI Assistant Pro 许可通过 [foxnext.net](https://foxnext.net) 注册出售。
 
-公开仓库：[Fox-Nexxt/VPS-to-VPN](https://github.com/Fox-Nexxt/VPS-to-VPN)
+公开仓库：[Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 路线图与白皮书：[docs/ROADMAP.zh.md](docs/ROADMAP.zh.md) · [docs/WHITEPAPER.zh.md](docs/WHITEPAPER.zh.md)
