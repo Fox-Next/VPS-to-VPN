@@ -17,7 +17,7 @@
   <a href="https://foxnext.net">Website</a> ·
   <a href="https://t.me/Black_Fox_Group">Telegram</a> ·
   <a href="https://t.me/Hiblackfox">Support</a> ·
-  <a href="https://github.com/BlackFoxGroup/VPS-to-VPN">GitHub</a>
+  <a href="https://github.com/Fox-Nexxt/VPS-to-VPN">GitHub</a>
 </p>
 
 ---
@@ -52,14 +52,14 @@ It is aimed at operators who want several egress locations and do not want to do
 
 | Platform | Product | Status | Download |
 |----------|---------|--------|----------|
-| Windows | VPS to VPN v3.2.2 installer | Available | [Setup.zip (GitHub)](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
-| Windows | VPS to VPN v3.2.2 portable | Available | [Portable.zip (GitHub)](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
-| Android | VPS to VPN Android v3.2.2 (arm64) | Available | [APK (GitHub)](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
+| Windows | VPS to VPN v3.2.2 installer | Available | [Setup.zip (GitHub)](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
+| Windows | VPS to VPN v3.2.2 portable | Available | [Portable.zip (GitHub)](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
+| Android | VPS to VPN Android v3.2.2 (arm64) | Available | [APK (GitHub)](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
 | Android | Black Fox Config Builder v1.1.4 | Available | [APK (foxnext.net)](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 | Android | Google Play | Coming soon | — |
 | macOS | VPS to VPN | Coming soon | — |
 
-Release files on GitHub: [BlackFoxGroup/VPS-to-VPN/releases](https://github.com/BlackFoxGroup/VPS-to-VPN/releases) (latest tag on GitHub Releases is `v3.2.0`; `v3.2.2` and Config Builder `v1.1.4` are live on `foxnext.net`).
+Release files on GitHub: [Fox-Nexxt/VPS-to-VPN/releases](https://github.com/Fox-Nexxt/VPS-to-VPN/releases) (latest tag on GitHub Releases is `v3.2.0`; `v3.2.2` and Config Builder `v1.1.4` are live on `foxnext.net`).
 
 ---
 
@@ -201,7 +201,7 @@ The goal is software with transparent behavior that does not collect user inform
 
 Basic, Pro, and AI Assistant Pro licenses are sold through registration on [foxnext.net](https://foxnext.net).
 
-Public docs repo: [BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+Public docs repo: [Fox-Nexxt/VPS-to-VPN](https://github.com/Fox-Nexxt/VPS-to-VPN)
 
 Roadmap / whitepaper:
 
@@ -242,14 +242,14 @@ Roadmap / whitepaper:
 
 | پلتفرم | محصول | وضعیت | دانلود |
 |--------|--------|--------|--------|
-| ویندوز | نصب‌کننده VPS to VPN نسخه ۳٫۲٫۲ | منتشر شده | [Setup.zip در گیت‌هاب](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
-| ویندوز | نسخه قابل‌حمل VPS to VPN نسخه ۳٫۲٫۲ | منتشر شده | [Portable.zip در گیت‌هاب](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
-| اندروید | VPS to VPN Android نسخه ۳٫۲٫۲ (arm64) | منتشر شده | [APK در گیت‌هاب](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
+| ویندوز | نصب‌کننده VPS to VPN نسخه ۳٫۲٫۲ | منتشر شده | [Setup.zip در گیت‌هاب](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
+| ویندوز | نسخه قابل‌حمل VPS to VPN نسخه ۳٫۲٫۲ | منتشر شده | [Portable.zip در گیت‌هاب](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
+| اندروید | VPS to VPN Android نسخه ۳٫۲٫۲ (arm64) | منتشر شده | [APK در گیت‌هاب](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
 | اندروید | Black Fox Config Builder نسخه ۱٫۱٫۴ | منتشر شده | [APK در foxnext.net](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 | اندروید | Google Play | به‌زودی | — |
 | مک | VPS to VPN | به‌زودی | — |
 
-فایل‌های انتشار در گیت‌هاب: [BlackFoxGroup/VPS-to-VPN/releases](https://github.com/BlackFoxGroup/VPS-to-VPN/releases) (آخرین تگ منتشرشده در Releases گیت‌هاب `v3.2.0` است؛ نسخه‌های `v3.2.2` و Config Builder `v1.1.4` روی `foxnext.net` قرار دارند).
+فایل‌های انتشار در گیت‌هاب: [Fox-Nexxt/VPS-to-VPN/releases](https://github.com/Fox-Nexxt/VPS-to-VPN/releases) (آخرین تگ منتشرشده در Releases گیت‌هاب `v3.2.0` است؛ نسخه‌های `v3.2.2` و Config Builder `v1.1.4` روی `foxnext.net` قرار دارند).
 
 ---
 
@@ -391,7 +391,7 @@ Roadmap / whitepaper:
 
 لایسنس Basic، Pro و AI Assistant Pro از ثبت‌نام در [foxnext.net](https://foxnext.net) فروخته می‌شود.
 
-ریپوی عمومی اسناد: [BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+ریپوی عمومی اسناد: [Fox-Nexxt/VPS-to-VPN](https://github.com/Fox-Nexxt/VPS-to-VPN)
 
 نقشه راه و وایت‌پیپر: [docs/ROADMAP.fa.md](docs/ROADMAP.fa.md) · [docs/WHITEPAPER.fa.md](docs/WHITEPAPER.fa.md)
 
@@ -427,14 +427,14 @@ VPS to VPN (Fox Nexxt) — консоль для Windows, которой под�
 
 | Платформа | Продукт | Статус | Скачать |
 |-----------|---------|--------|---------|
-| Windows | установщик VPS to VPN v3.2.2 | доступен | [Setup.zip (GitHub)](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
-| Windows | portable VPS to VPN v3.2.2 | доступен | [Portable.zip (GitHub)](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
-| Android | VPS to VPN Android v3.2.2 (arm64) | доступен | [APK (GitHub)](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
+| Windows | установщик VPS to VPN v3.2.2 | доступен | [Setup.zip (GitHub)](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
+| Windows | portable VPS to VPN v3.2.2 | доступен | [Portable.zip (GitHub)](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
+| Android | VPS to VPN Android v3.2.2 (arm64) | доступен | [APK (GitHub)](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
 | Android | Black Fox Config Builder v1.1.4 | доступен | [APK (foxnext.net)](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 | Android | Google Play | скоро | — |
 | macOS | VPS to VPN | скоро | — |
 
-Файлы релизов: [BlackFoxGroup/VPS-to-VPN/releases](https://github.com/BlackFoxGroup/VPS-to-VPN/releases) (тег `latest` на GitHub Releases сейчас указывает на `v3.2.0`; сборки `v3.2.2` и Config Builder `v1.1.4` доступны на `foxnext.net`).
+Файлы релизов: [Fox-Nexxt/VPS-to-VPN/releases](https://github.com/Fox-Nexxt/VPS-to-VPN/releases) (тег `latest` на GitHub Releases сейчас указывает на `v3.2.0`; сборки `v3.2.2` и Config Builder `v1.1.4` доступны на `foxnext.net`).
 
 ---
 
@@ -576,7 +576,7 @@ Fox Nexxt не получает от пользователя сведения �
 
 Лицензии Basic, Pro и AI Assistant Pro продаются через регистрацию на [foxnext.net](https://foxnext.net).
 
-Публичный репозиторий: [BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+Публичный репозиторий: [Fox-Nexxt/VPS-to-VPN](https://github.com/Fox-Nexxt/VPS-to-VPN)
 
 Дорожная карта и белая книга: [docs/ROADMAP.ru.md](docs/ROADMAP.ru.md) · [docs/WHITEPAPER.ru.md](docs/WHITEPAPER.ru.md)
 
@@ -612,14 +612,14 @@ VPS to VPN（Fox Nexxt）是一套 Windows 运维控制台，用来部署和管�
 
 | 平台 | 产品 | 状态 | 下载 |
 |------|------|------|------|
-| Windows | VPS to VPN v3.2.2 安装包 | 已发布 | [Setup.zip（GitHub）](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
-| Windows | VPS to VPN v3.2.2 便携版 | 已发布 | [Portable.zip（GitHub）](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
-| Android | VPS to VPN Android v3.2.2（arm64） | 已发布 | [APK（GitHub）](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
+| Windows | VPS to VPN v3.2.2 安装包 | 已发布 | [Setup.zip（GitHub）](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
+| Windows | VPS to VPN v3.2.2 便携版 | 已发布 | [Portable.zip（GitHub）](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Portable.zip) |
+| Android | VPS to VPN Android v3.2.2（arm64） | 已发布 | [APK（GitHub）](https://github.com/Fox-Nexxt/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) · [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Android.apk) |
 | Android | Black Fox Config Builder v1.1.4 | 已发布 | [APK（foxnext.net）](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 | Android | Google Play | 即将上线 | — |
 | macOS | VPS to VPN | 即将上线 | — |
 
-发布页：[BlackFoxGroup/VPS-to-VPN/releases](https://github.com/BlackFoxGroup/VPS-to-VPN/releases)（GitHub Releases 的最新标签目前仍为 `v3.2.0`；`v3.2.2` 与 Config Builder `v1.1.4` 已在 `foxnext.net` 上线）。
+发布页：[Fox-Nexxt/VPS-to-VPN/releases](https://github.com/Fox-Nexxt/VPS-to-VPN/releases)（GitHub Releases 的最新标签目前仍为 `v3.2.0`；`v3.2.2` 与 Config Builder `v1.1.4` 已在 `foxnext.net` 上线）。
 
 ---
 
@@ -761,6 +761,6 @@ Fox Nexxt 不会从用户接收服务器信息或服务器配置。
 
 Basic、Pro 和 AI Assistant Pro 许可通过 [foxnext.net](https://foxnext.net) 注册出售。
 
-公开仓库：[BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+公开仓库：[Fox-Nexxt/VPS-to-VPN](https://github.com/Fox-Nexxt/VPS-to-VPN)
 
 路线图与白皮书：[docs/ROADMAP.zh.md](docs/ROADMAP.zh.md) · [docs/WHITEPAPER.zh.md](docs/WHITEPAPER.zh.md)
