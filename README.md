@@ -15,8 +15,8 @@
   <a href="#русский">Русский</a> ·
   <a href="#中文">中文</a> ·
   <a href="https://foxnext.net">Website</a> ·
-  <a href="https://t.me/Black_Fox_Group">Telegram</a> ·
-  <a href="https://t.me/Hiblackfox">Support</a> ·
+  <a href="https://t.me/Fox_next">Telegram</a> ·
+  <a href="https://t.me/HiFoxnext">Support</a> ·
   <a href="https://github.com/Fox-Next/VPS-to-VPN">GitHub</a>
 </p>
 
@@ -136,7 +136,7 @@ AI Assistant Pro is a Fox Next license inside the app. After you activate it, yo
 
 Licenses (`Basic`, `Pro`, and `AI Assistant Pro`) support multiple payment and activation options through [foxnext.net/en/activation.html](https://foxnext.net/en/activation.html):
 
-- **Payment methods:** `Visa` / `Mastercard`, `Google Pay` / `Apple Pay` (on supported devices and browsers), `USDT (BEP-20)` with `TX HASH` verification, or direct purchase and offline code assistance via Telegram support ([`@Hiblackfox`](https://t.me/Hiblackfox)).
+- **Payment methods:** `Visa` / `Mastercard`, `Google Pay` / `Apple Pay` (on supported devices and browsers), `USDT (BEP-20)` with `TX HASH` verification, or direct purchase and offline code assistance via Telegram support ([`@HiFoxnext`](https://t.me/HiFoxnext)).
 - **How to activate:** Select your mode, duration, and device count on the activation page, complete payment using your preferred method, and receive an activation code. Open the **Registration** tab in the Windows or Android app, paste the code, and select **Activate**.
 - **Restore and upgrade:** Each code binds to the device (`Device ID`) on first activation. You can restore an active license after reinstalling on the same device using **Reactivation**, or upgrade and recharge AI quota on [foxnext.net/en/ai-recharge.html](https://foxnext.net/en/ai-recharge.html).
 
@@ -178,7 +178,7 @@ Fox Next receives no server information or configuration from the user.
 
 #### How online connections work
 
-- **Free-domain creation with Cloudflare:** the current app requests the free-domain catalog from Foxnext and uses its Cloudflare API credential directly to create or update the required DNS record. The credential is therefore available to the running app during this operation. This is the current implementation and is documented here so that it is clear to operators.
+- **Free-domain creation with Cloudflare:** the current app requests the free-domain catalog from Fox Next and uses its Cloudflare API credential directly to create or update the required DNS record. The credential is therefore available to the running app during this operation. This is the current implementation and is documented here so that it is clear to operators.
 - **License validation:** the Device ID is sent to the license service to validate the license and its expiry.
 - **Manual update check:** you can manually check for a newer version. The app does not update itself automatically.
 - **Public information:** the app can fetch public service details and support contact information from the server.
@@ -195,8 +195,8 @@ The goal is software with transparent behavior that does not collect user inform
 
 - Privacy EN: https://foxnext.net/en/privacy.html
 - Privacy FA: https://foxnext.net/fa/privacy.html
-- Telegram Group: https://t.me/Black_Fox_Group
-- Support: https://t.me/Hiblackfox (`@Hiblackfox`)
+- Telegram Group: https://t.me/Fox_next
+- Support: https://t.me/HiFoxnext (`@HiFoxnext`)
 - Email: support@foxnext.net
 
 Basic, Pro, and AI Assistant Pro licenses are sold through registration on [foxnext.net](https://foxnext.net).
@@ -224,7 +224,7 @@ Roadmap / whitepaper:
 
 ## این محصول چیست؟
 
-محصول VPS to VPN (گروه Black Fox) یک کنسول عملیات ویندوز برای زیرساخت VPN چندسروری است.
+محصول VPS to VPN (Fox Next) یک کنسول عملیات ویندوز برای زیرساخت VPN چندسروری است.
 
 با آن می‌توانید:
 
@@ -234,7 +234,7 @@ Roadmap / whitepaper:
 - نوع لینک، Watchdog و Link Monitor را از Server Connection Manager عوض کنید
 - لایسنس Basic یا Pro بگیرید
 - Central را جابه‌جا کنید، دامنه و CDN را بزنید، ربات‌ها را وصل کنید و لایسنس را دوباره فعال کنید
-- لایسنس AI Assistant Pro را فعال کنید و همان کارها را به ایجنت هوش مصنوعی گروه Black Fox در چت بسپارید
+- لایسنس AI Assistant Pro را فعال کنید و همان کارها را به ایجنت هوش مصنوعی Fox Next در چت بسپارید
 
 برای کسی است که چند خروجی جغرافیایی می‌خواهد و نمی‌خواهد هر کار لینوکس را دستی تکرار کند.
 
@@ -308,7 +308,7 @@ Roadmap / whitepaper:
 |------|--------|
 | Basic | Central و تعداد محدود Exit |
 | Pro | زنجیره کامل، Mesh Manager، Domain/CDN روی ویندوز، Move Central |
-| AI Assistant Pro | ایجنت گروه Black Fox در چت؛ قبل از تغییر سرور تأیید می‌گیرد |
+| AI Assistant Pro | ایجنت Fox Next در چت؛ قبل از تغییر سرور تأیید می‌گیرد |
 
 ### سایر امکانات
 
@@ -320,13 +320,13 @@ Roadmap / whitepaper:
 
 ### AI Assistant Pro
 
-لایسنس AI Assistant Pro داخل برنامه است. بعد از فعال‌سازی می‌توانید بیشتر کار کنسول را به ایجنت هوش مصنوعی گروه Black Fox بسپارید: افزودن Central، Tunnel، Exit یا Node، نصب 3X-UI، مش، دامنه و CDN، تشخیص و تعمیر، و بقیه کارهایی که خود برنامه بلد است. درخواست را در چت می‌نویسید (یا فایل و عکس می‌فرستید). قبل از تغییر سرور ایجنت تأیید می‌گیرد.
+لایسنس AI Assistant Pro داخل برنامه است. بعد از فعال‌سازی می‌توانید بیشتر کار کنسول را به ایجنت هوش مصنوعی Fox Next بسپارید: افزودن Central، Tunnel، Exit یا Node، نصب 3X-UI، مش، دامنه و CDN، تشخیص و تعمیر، و بقیه کارهایی که خود برنامه بلد است. درخواست را در چت می‌نویسید (یا فایل و عکس می‌فرستید). قبل از تغییر سرور ایجنت تأیید می‌گیرد.
 
 ## نحوهٔ فعال‌سازی و روش‌های پرداخت
 
 برای تهیه و فعال‌سازی لایسنس‌های `Basic`، `Pro` و `AI Assistant Pro` چندین روش پرداخت و فعال‌سازی از طریق [صفحهٔ فعال‌سازی در foxnext.net](https://foxnext.net/fa/activation.html) در دسترس است:
 
-- **روش‌های پرداخت:** `Visa` / `Mastercard`، `Google Pay` / `Apple Pay` (در دستگاه‌ها و مرورگرهای پشتیبانی‌شده)، رمزارز `USDT (BEP-20)` با تأیید آنی `TX HASH`، **پرداخت ریالی** و همچنین دریافت کد فعال‌سازی از طریق پشتیبانی تلگرام ([`@Hiblackfox`](https://t.me/Hiblackfox)).
+- **روش‌های پرداخت:** `Visa` / `Mastercard`، `Google Pay` / `Apple Pay` (در دستگاه‌ها و مرورگرهای پشتیبانی‌شده)، رمزارز `USDT (BEP-20)` با تأیید آنی `TX HASH`، **پرداخت ریالی** و همچنین دریافت کد فعال‌سازی از طریق پشتیبانی تلگرام ([`@HiFoxnext`](https://t.me/HiFoxnext)).
 - **مراحل فعال‌سازی:** حالت، مدت اعتبار و تعداد دستگاه را در صفحهٔ فعال‌سازی انتخاب کنید، پرداخت را با روش دلخواه انجام دهید و کد فعال‌سازی را دریافت کنید. سپس در برنامهٔ ویندوز یا اندروید وارد بخش **Registration** شوید، کد را وارد کنید و دکمهٔ **Activate** را بزنید.
 - **بازیابی و ارتقا:** هر کد در اولین استفاده به شناسهٔ همان دستگاه (`Device ID`) متصل می‌شود؛ در صورت نصب مجدد روی همان دستگاه می‌توانید با **Reactivation** لایسنس را بازیابی کنید یا از صفحهٔ [ارتقا و شارژ AI](https://foxnext.net/fa/ai-recharge.html) استفاده نمایید.
 
@@ -368,7 +368,7 @@ Roadmap / whitepaper:
 
 #### ارتباطات آنلاین برنامه چگونه کار می‌کنند؟
 
-- **ساخت دامنهٔ رایگان با Cloudflare:** نسخهٔ فعلی برنامه کاتالوگ دامنهٔ رایگان را از Foxnext می‌گیرد و برای ساخت یا تغییر رکورد DNS، کلید API کلودفلر آن را مستقیم استفاده می‌کند. بنابراین کلید در زمان این عملیات در اختیار برنامهٔ در حال اجرا قرار می‌گیرد. این رفتار فعلی برنامه است و برای شفافیت کامل مستند شده است.
+- **ساخت دامنهٔ رایگان با Cloudflare:** نسخهٔ فعلی برنامه کاتالوگ دامنهٔ رایگان را از Fox Next می‌گیرد و برای ساخت یا تغییر رکورد DNS، کلید API کلودفلر آن را مستقیم استفاده می‌کند. بنابراین کلید در زمان این عملیات در اختیار برنامهٔ در حال اجرا قرار می‌گیرد. این رفتار فعلی برنامه است و برای شفافیت کامل مستند شده است.
 - **بررسی اعتبار لایسنس:** شناسهٔ دستگاه برای بررسی لایسنس و تاریخ اعتبار آن به سرویس لایسنس ارسال می‌شود.
 - **بررسی دستی به‌روزرسانی:** کاربر می‌تواند دستی وجود نسخهٔ جدید را بررسی کند. برنامه خودکار به‌روز نمی‌شود.
 - **دریافت اطلاعات عمومی:** برنامه می‌تواند مشخصات عمومی سرویس و راه‌های ارتباط با پشتیبانی را از سرور دریافت کند.
@@ -385,8 +385,8 @@ Roadmap / whitepaper:
 
 - حریم خصوصی فارسی: https://foxnext.net/fa/privacy.html
 - حریم خصوصی انگلیسی: https://foxnext.net/en/privacy.html
-- گروه تلگرام: https://t.me/Black_Fox_Group
-- پشتیبانی: https://t.me/Hiblackfox (`@Hiblackfox`)
+- گروه تلگرام: https://t.me/Fox_next
+- پشتیبانی: https://t.me/HiFoxnext (`@HiFoxnext`)
 - ایمیل: support@foxnext.net
 
 لایسنس Basic، Pro و AI Assistant Pro از ثبت‌نام در [foxnext.net](https://foxnext.net) فروخته می‌شود.
@@ -511,7 +511,7 @@ AI Assistant Pro — лицензия Fox Next внутри приложения
 
 Для лицензий `Basic`, `Pro` и `AI Assistant Pro` доступно несколько способов оплаты и активации через [страницу активации foxnext.net](https://foxnext.net/en/activation.html):
 
-- **Способы оплаты:** `Visa` / `Mastercard`, `Google Pay` / `Apple Pay` (на поддерживаемых устройствах и в браузерах), `USDT (BEP-20)` с проверкой `TX HASH`, а также оформление и выдача кода через поддержку в Telegram ([`@Hiblackfox`](https://t.me/Hiblackfox)).
+- **Способы оплаты:** `Visa` / `Mastercard`, `Google Pay` / `Apple Pay` (на поддерживаемых устройствах и в браузерах), `USDT (BEP-20)` с проверкой `TX HASH`, а также оформление и выдача кода через поддержку в Telegram ([`@HiFoxnext`](https://t.me/HiFoxnext)).
 - **Как активировать:** выберите режим, срок действия и количество устройств на странице активации, оплатите удобным способом и получите код активации. В приложении для Windows или Android откройте вкладку **Registration**, вставьте код и нажмите **Activate**.
 - **Восстановление и пополнение:** при первом запуске код привязывается к устройству (`Device ID`). После переустановки на том же устройстве лицензию можно восстановить кнопкой **Reactivation**, а повысить тариф или пополнить лимит ИИ — на странице [AI Recharge](https://foxnext.net/en/ai-recharge.html).
 
@@ -553,7 +553,7 @@ Fox Next не получает от пользователя сведения о
 
 #### Как работают онлайн-подключения
 
-- **Бесплатный домен с Cloudflare:** текущая версия запрашивает каталог бесплатных доменов у Foxnext и напрямую использует его Cloudflare API credential для создания или изменения DNS-записи. Поэтому credential доступен запущенному приложению во время этой операции. Это текущее поведение документировано здесь для полной прозрачности.
+- **Бесплатный домен с Cloudflare:** текущая версия запрашивает каталог бесплатных доменов у Fox Next и напрямую использует его Cloudflare API credential для создания или изменения DNS-записи. Поэтому credential доступен запущенному приложению во время этой операции. Это текущее поведение документировано здесь для полной прозрачности.
 - **Проверка лицензии:** Device ID отправляется в сервис лицензирования для проверки лицензии и срока её действия.
 - **Ручная проверка обновлений:** пользователь может вручную проверить новую версию. Автоматического обновления нет.
 - **Публичная информация:** приложение может получать с сервера общие сведения о сервисе и контакты поддержки.
@@ -570,8 +570,8 @@ Fox Next не получает от пользователя сведения о
 
 - Политика EN: https://foxnext.net/en/privacy.html
 - Политика FA: https://foxnext.net/fa/privacy.html
-- Группа Telegram: https://t.me/Black_Fox_Group
-- Поддержка: https://t.me/Hiblackfox (`@Hiblackfox`)
+- Группа Telegram: https://t.me/Fox_next
+- Поддержка: https://t.me/HiFoxnext (`@HiFoxnext`)
 - Почта: support@foxnext.net
 
 Лицензии Basic, Pro и AI Assistant Pro продаются через регистрацию на [foxnext.net](https://foxnext.net).
@@ -696,7 +696,7 @@ AI Assistant Pro 是应用内的 Fox Next 许可。开通后，可以把控制�
 
 `Basic`、`Pro` 和 `AI Assistant Pro` 许可支持多种付款与激活方式，可通过 [foxnext.net 激活页面](https://foxnext.net/en/activation.html) 完成购买与获取：
 
-- **付款方式：** 支持 `Visa` / `Mastercard`、`Google Pay` / `Apple Pay`（支持的设备与浏览器）、`USDT (BEP-20)`（提交 `TX HASH` 验证），以及通过 Telegram 支持（[`@Hiblackfox`](https://t.me/Hiblackfox)）获取激活码。
+- **付款方式：** 支持 `Visa` / `Mastercard`、`Google Pay` / `Apple Pay`（支持的设备与浏览器）、`USDT (BEP-20)`（提交 `TX HASH` 验证），以及通过 Telegram 支持（[`@HiFoxnext`](https://t.me/HiFoxnext)）获取激活码。
 - **激活步骤：** 在激活页面选择模式、时长和设备数量，使用任一方式完成付款后即可获得激活码。随后在 Windows 或 Android 应用中打开 **Registration** 页面，粘贴激活码并点击 **Activate**。
 - **恢复与升级：** 激活码在首次使用时绑定当前设备（`Device ID`）；同一设备重装后可通过 **Reactivation** 恢复许可，也可以在 [AI Recharge 页面](https://foxnext.net/en/ai-recharge.html) 升级套餐或充值 AI 额度。
 
@@ -738,7 +738,7 @@ Fox Next 不会从用户接收服务器信息或服务器配置。
 
 #### 应用如何进行在线连接
 
-- **通过 Cloudflare 创建免费域名：** 当前版本会从 Foxnext 请求免费域名目录，并直接使用其中的 Cloudflare API credential 创建或更新所需的 DNS 记录。因此，该 credential 在此操作期间可供正在运行的应用使用。这里如实记录当前实现，以便运维人员清楚了解。
+- **通过 Cloudflare 创建免费域名：** 当前版本会从 Fox Next 请求免费域名目录，并直接使用其中的 Cloudflare API credential 创建或更新所需的 DNS 记录。因此，该 credential 在此操作期间可供正在运行的应用使用。这里如实记录当前实现，以便运维人员清楚了解。
 - **许可证验证：** Device ID 会发送到许可证服务，用于验证许可证及其有效期。
 - **手动检查更新：** 用户可以手动检查新版本。应用不会自动更新。
 - **获取公开信息：** 应用可以从服务器获取公开服务信息和支持联系方式。
@@ -755,8 +755,8 @@ Fox Next 不会从用户接收服务器信息或服务器配置。
 
 - 英文隐私：https://foxnext.net/en/privacy.html
 - 波斯文隐私：https://foxnext.net/fa/privacy.html
-- Telegram 群组：https://t.me/Black_Fox_Group
-- 支持：https://t.me/Hiblackfox (`@Hiblackfox`)
+- Telegram 群组：https://t.me/Fox_next
+- 支持：https://t.me/HiFoxnext (`@HiFoxnext`)
 - 邮箱：support@foxnext.net
 
 Basic、Pro 和 AI Assistant Pro 许可通过 [foxnext.net](https://foxnext.net) 注册出售。
