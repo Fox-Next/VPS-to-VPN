@@ -4,7 +4,7 @@
 **Product:** VPS to VPN  
 **Current releases:** Windows v3.2.2 (Build 225). Android and Config Builder follow `version.json` on the update hosts.  
 **Website:** [https://foxnext.net](https://foxnext.net)  
-**Public GitHub:** [BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+**Public GitHub:** [Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 This list tracks what already shipped, what we are still changing, and what is planned. It follows the current Windows Go tree, the site, and the license service. Android version numbers here stay as they were unless a release note says otherwise.
 
@@ -14,9 +14,9 @@ This list tracks what already shipped, what we are still changing, and what is p
 
 | Product | File | GitHub | Site |
 |---------|------|--------|------|
-| VPS to VPN (Windows installer) | `VPS-to-VPN-Setup.zip` | [download](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) | [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
-| VPS to VPN (Windows portable) | `VPS to VPN-Portable.zip` | [download](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) | — |
-| VPS to VPN Android (arm64) | `VPS-to-VPN-Android-arm64-v8a-release.apk` | [download](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) | [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN%20Android.apk) |
+| VPS to VPN (Windows installer) | `VPS-to-VPN-Setup.zip` | [download](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) | [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
+| VPS to VPN (Windows portable) | `VPS to VPN-Portable.zip` | [download](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) | — |
+| VPS to VPN Android (arm64) | `VPS-to-VPN-Android-arm64-v8a-release.apk` | [download](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) | [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN%20Android.apk) |
 | Black Fox Config Builder | `Black-Fox-Config-Builder.apk` | — | [foxnext.net](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 
 Google Play for VPS to VPN Android: coming soon.  
@@ -33,12 +33,12 @@ macOS edition: coming soon.
 - Companion: Black Fox Config Builder v1.1.3 Build 7
 - Site plus two update hosts (`foxnext.net`, `blackfoxupdate.ir`)
 - Privacy pages (EN/FA) on foxnext.net
-- Public docs and binaries on [BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+- Public docs and binaries on [Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 ### Core operations (Windows and Android)
 
 - Basic Mode and Pro Mode
-- AI Assistant Pro: in-app Black Fox Group agent for day-to-day ops (chat, then confirm before changes)
+- AI Assistant Pro: in-app Fox Next agent for day-to-day ops (chat, then confirm before changes)
 - Central setup, Connect SSH, Full Deploy
 - Tunnel Server (Pro)
 - Exit Server (Basic: 2 slots; Pro: up to 6)
@@ -65,7 +65,7 @@ macOS edition: coming soon.
 - Delete from panel or from the local list
 - Dual-server updates
 - Needs 3X-UI 3.3.0 or newer, Android API 24+, 10 languages
-- Docs: [BlackFoxGroup/blackfox-config-builder](https://github.com/BlackFoxGroup/blackfox-config-builder)
+- Docs: [Fox-Next/blackfox-config-builder](https://github.com/Fox-Next/blackfox-config-builder)
 
 ### Localization
 
@@ -125,4 +125,4 @@ README, ROADMAP, and WHITEPAPER in English, Persian, Russian, and Chinese. Site 
 - [WHITEPAPER.en.md](WHITEPAPER.en.md)
 - [ROADMAP.fa.md](ROADMAP.fa.md) · [ROADMAP.ru.md](ROADMAP.ru.md) · [ROADMAP.zh.md](ROADMAP.zh.md)
 
-© Black Fox Security Team
+© Fox Next

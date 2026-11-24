@@ -4,7 +4,7 @@
 **محصول‌ها:** VPS to VPN (ویندوز)، VPS to VPN Android، Black Fox Config Builder  
 **نسخه ویندوز:** v3.2.2 (Build 225)  
 **وب‌سایت:** [https://foxnext.net](https://foxnext.net)  
-**گیت‌هاب عمومی:** [https://github.com/BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+**گیت‌هاب عمومی:** [https://github.com/Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 ---
 
@@ -15,7 +15,7 @@
 - پنل 3X-UI (سنایی)
 - نه نوع مسیر مش (هشت مسیر Xray، WireGuard آخر) با failover خودکار
 - Server Connection Manager برای نوع لینک زنده، Watchdog و Link Monitor
-- لایسنس AI Assistant Pro و ایجنت هوش مصنوعی گروه Black Fox در چت؛ قبل از تغییر سرور تأیید می‌گیرد
+- لایسنس AI Assistant Pro و ایجنت هوش مصنوعی Fox Next در چت؛ قبل از تغییر سرور تأیید می‌گیرد
 
 کار تکراری لینوکس، SSH، پنل، DNS و تونل از کار روزانه کم می‌شود.
 
@@ -25,13 +25,13 @@
 
 | سطح | نام | نقش | دانلود |
 |------|------|-----|--------|
-| ویندوز | VPS to VPN | کنسول دسکتاپ | [Setup.zip در گیت‌هاب](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip)، [Portable.zip](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) |
-| اندروید | VPS to VPN Android | عملیات موبایل (Basic و Pro) | [APK در گیت‌هاب](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) |
+| ویندوز | VPS to VPN | کنسول دسکتاپ | [Setup.zip در گیت‌هاب](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip)، [Portable.zip](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) |
+| اندروید | VPS to VPN Android | عملیات موبایل (Basic و Pro) | [APK در گیت‌هاب](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) |
 | همراه اندروید | Black Fox Config Builder | ساخت کانفیگ کلاینت 3X-UI | [APK](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 | Google Play | VPS to VPN Android | فروشگاه | به‌زودی |
 | مک | VPS to VPN | نسخه دسکتاپ بعدی | به‌زودی |
 
-مستندات Config Builder: [BlackFoxGroup/blackfox-config-builder](https://github.com/BlackFoxGroup/blackfox-config-builder)
+مستندات Config Builder: [Fox-Next/blackfox-config-builder](https://github.com/Fox-Next/blackfox-config-builder)
 
 ---
 
@@ -153,4 +153,4 @@ Build 6 فید دو سرور را آورد. Build 7 نسخه فعلی اندرو
 - [ROADMAP.fa.md](ROADMAP.fa.md)
 - [WHITEPAPER.en.md](WHITEPAPER.en.md) · [WHITEPAPER.ru.md](WHITEPAPER.ru.md) · [WHITEPAPER.zh.md](WHITEPAPER.zh.md)
 
-© Black Fox Security Team
+© Fox Next

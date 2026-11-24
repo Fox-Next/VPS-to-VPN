@@ -4,7 +4,7 @@
 **Products:** VPS to VPN (Windows), VPS to VPN Android, Black Fox Config Builder  
 **Current Windows release:** v3.2.2 (Build 225)  
 **Website:** [https://foxnext.net](https://foxnext.net)  
-**Public GitHub:** [https://github.com/BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+**Public GitHub:** [https://github.com/Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 ---
 
@@ -15,7 +15,7 @@ VPS to VPN is a server deploy and operations suite. Operators on restricted netw
 - 3X-UI (Sanaei) as the panel
 - Nine mesh path types (eight Xray-based, WireGuard last) with automatic failover
 - Server Connection Manager for live link type, watchdog, and Link Monitor
-- AI Assistant Pro: the Black Fox Group in-app agent. After activation, operators can ask in chat to add servers, install the panel, run mesh or domain work, and diagnose. The agent confirms before it changes a host.
+- AI Assistant Pro: the Fox Next in-app agent. After activation, operators can ask in chat to add servers, install the panel, run mesh or domain work, and diagnose. The agent confirms before it changes a host.
 
 The point is to cut the repeated Linux, SSH, panel, DNS, and tunnel work from daily ops.
 
@@ -25,13 +25,13 @@ The point is to cut the repeated Linux, SSH, panel, DNS, and tunnel work from da
 
 | Surface | Name | Role | Download |
 |---------|------|------|----------|
-| Windows | VPS to VPN | Desktop operations console | [Setup.zip (GitHub)](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip), [Portable.zip](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) |
-| Android | VPS to VPN Android | Mobile operations (Basic and Pro) | [APK (GitHub)](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) |
+| Windows | VPS to VPN | Desktop operations console | [Setup.zip (GitHub)](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip), [Portable.zip](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) |
+| Android | VPS to VPN Android | Mobile operations (Basic and Pro) | [APK (GitHub)](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) |
 | Android companion | Black Fox Config Builder | Phone helper for 3X-UI client configs | [APK](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 | Google Play | VPS to VPN Android | Store listing | Coming soon |
 | macOS | VPS to VPN | Future desktop build | Coming soon |
 
-Config Builder docs: [BlackFoxGroup/blackfox-config-builder](https://github.com/BlackFoxGroup/blackfox-config-builder)
+Config Builder docs: [Fox-Next/blackfox-config-builder](https://github.com/Fox-Next/blackfox-config-builder)
 
 ---
 
@@ -174,4 +174,4 @@ This suite is an operations console. Google Play and macOS are not released yet.
 - [ROADMAP.en.md](ROADMAP.en.md)
 - [WHITEPAPER.fa.md](WHITEPAPER.fa.md) · [WHITEPAPER.ru.md](WHITEPAPER.ru.md) · [WHITEPAPER.zh.md](WHITEPAPER.zh.md)
 
-© Black Fox Security Team
+© Fox Next

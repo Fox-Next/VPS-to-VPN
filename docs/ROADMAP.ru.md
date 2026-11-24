@@ -4,7 +4,7 @@
 **Продукт:** VPS to VPN  
 **Текущие сборки:** Windows v3.2.2 (Build 225). Android и Config Builder берутся из `version.json` на хостах обновлений.  
 **Сайт:** [https://foxnext.net](https://foxnext.net)  
-**Публичный GitHub:** [BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+**Публичный GitHub:** [Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 Список того, что уже вышло, что ещё правим и что планируем. Опора: текущее дерево Go для Windows, сайт и сервис лицензий. Номер Android здесь не меняем, пока этого нет в release notes.
 
@@ -14,9 +14,9 @@
 
 | Продукт | Файл | GitHub | Сайт |
 |---------|------|--------|------|
-| Установщик Windows | `VPS-to-VPN-Setup.zip` | [скачать](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) | [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
-| Portable Windows | `VPS to VPN-Portable.zip` | [скачать](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) | — |
-| Android arm64 | `VPS-to-VPN-Android-arm64-v8a-release.apk` | [скачать](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) | [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN%20Android.apk) |
+| Установщик Windows | `VPS-to-VPN-Setup.zip` | [скачать](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) | [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
+| Portable Windows | `VPS to VPN-Portable.zip` | [скачать](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) | — |
+| Android arm64 | `VPS-to-VPN-Android-arm64-v8a-release.apk` | [скачать](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) | [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN%20Android.apk) |
 | Black Fox Config Builder | `Black-Fox-Config-Builder.apk` | — | [foxnext.net](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 
 Google Play: скоро.  
@@ -29,8 +29,8 @@ macOS: скоро.
 - Консоль Windows v3.2.2 Build 225, приложение Android, Config Builder 1.1.3 Build 7
 - Сайт и два хоста обновлений (`foxnext.net`, `blackfoxupdate.ir`)
 - Политика конфиденциальности EN/FA
-- Документы и бинарники на [BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
-- Basic и Pro, лицензия AI Assistant Pro и ИИ-агент Black Fox Group в чате
+- Документы и бинарники на [Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
+- Basic и Pro, лицензия AI Assistant Pro и ИИ-агент Fox Next в чате
 - Central / SSH / Full Deploy, Tunnel (Pro), Exit (2 слота в Basic, до 6 в Pro)
 - Девять типов mesh с failover, Configure Panel, установка WireGuard и 3X-UI
 - DNS (Cloudflare, ArvanCloud), CDN на Windows Pro, Move Central на Windows и Android
@@ -73,4 +73,4 @@ macOS: скоро.
 - [WHITEPAPER.ru.md](WHITEPAPER.ru.md)
 - [ROADMAP.en.md](ROADMAP.en.md)
 
-© Black Fox Security Team
+© Fox Next

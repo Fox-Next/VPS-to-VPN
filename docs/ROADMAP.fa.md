@@ -4,7 +4,7 @@
 **محصول:** VPS to VPN  
 **نسخه فعلی:** ویندوز v3.2.2 (Build 225). اندروید و Config Builder از `version.json` روی میزبان آپدیت می‌آیند.  
 **وب‌سایت:** [https://foxnext.net](https://foxnext.net)  
-**گیت‌هاب عمومی:** [BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+**گیت‌هاب عمومی:** [Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 این فهرست کار تمام‌شده، کار جاری و کار برنامه‌ریزی‌شده را نشان می‌دهد. مبنا کد Go ویندوز، سایت و سرویس لایسنس است. شماره نسخه اندروید را اینجا عوض نمی‌کنیم مگر در یادداشت انتشار گفته شود.
 
@@ -14,9 +14,9 @@
 
 | محصول | فایل | گیت‌هاب | سایت |
 |--------|------|---------|------|
-| نصب‌کننده ویندوز | `VPS-to-VPN-Setup.zip` | [دانلود](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) | [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
-| نسخه قابل‌حمل ویندوز | `VPS to VPN-Portable.zip` | [دانلود](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) | — |
-| اندروید arm64 | `VPS-to-VPN-Android-arm64-v8a-release.apk` | [دانلود](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) | [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN%20Android.apk) |
+| نصب‌کننده ویندوز | `VPS-to-VPN-Setup.zip` | [دانلود](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip) | [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN-Setup.exe) |
+| نسخه قابل‌حمل ویندوز | `VPS to VPN-Portable.zip` | [دانلود](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) | — |
+| اندروید arm64 | `VPS-to-VPN-Android-arm64-v8a-release.apk` | [دانلود](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) | [foxnext.net](https://foxnext.net/downloads/VPS%20to%20VPN%20Android.apk) |
 | Black Fox Config Builder | `Black-Fox-Config-Builder.apk` | — | [foxnext.net](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 
 Google Play برای اندروید: به‌زودی.  
@@ -33,12 +33,12 @@ Google Play برای اندروید: به‌زودی.
 - ابزار همراه Config Builder نسخه 1.1.3 Build 7
 - سایت و دو میزبان آپدیت (`foxnext.net`، `blackfoxupdate.ir`)
 - صفحات حریم خصوصی فارسی و انگلیسی
-- اسناد و باینری عمومی روی [BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+- اسناد و باینری عمومی روی [Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 ### عملیات اصلی (ویندوز و اندروید)
 
 - حالت Basic و Pro
-- لایسنس AI Assistant Pro و ایجنت هوش مصنوعی گروه Black Fox در چت (قبل از تغییر سرور تأیید می‌گیرد)
+- لایسنس AI Assistant Pro و ایجنت هوش مصنوعی Fox Next در چت (قبل از تغییر سرور تأیید می‌گیرد)
 - راه‌اندازی Central، Connect SSH، Full Deploy
 - Tunnel Server در Pro
 - Exit Server (Basic: دو اسلات؛ Pro: تا شش)
@@ -61,7 +61,7 @@ Google Play برای اندروید: به‌زودی.
 ### Config Builder
 
 شش تب، ساخت تکی و گروهی، حذف از پنل یا لیست، آپدیت دو سرور، نیاز به 3X-UI 3.3.0 به بالا و API 24.  
-مستندات: [BlackFoxGroup/blackfox-config-builder](https://github.com/BlackFoxGroup/blackfox-config-builder)
+مستندات: [Fox-Next/blackfox-config-builder](https://github.com/Fox-Next/blackfox-config-builder)
 
 ### بومی‌سازی
 
@@ -121,4 +121,4 @@ README، ROADMAP و WHITEPAPER به انگلیسی، فارسی، روسی و چ
 - [WHITEPAPER.fa.md](WHITEPAPER.fa.md)
 - [ROADMAP.en.md](ROADMAP.en.md) · [ROADMAP.ru.md](ROADMAP.ru.md) · [ROADMAP.zh.md](ROADMAP.zh.md)
 
-© Black Fox Security Team
+© Fox Next

@@ -4,13 +4,13 @@
 **Продукты:** VPS to VPN (Windows), VPS to VPN Android, Black Fox Config Builder  
 **Windows:** v3.2.2 (Build 225)  
 **Сайт:** [https://foxnext.net](https://foxnext.net)  
-**Публичный GitHub:** [https://github.com/BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+**Публичный GitHub:** [https://github.com/Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 ---
 
 ## 1. Зачем
 
-VPS to VPN — набор для развёртывания и эксплуатации серверов. Операторы в ограниченных сетях поднимают VPN в нескольких локациях на 3X-UI (Sanaei), девяти типах mesh (восемь на Xray, WireGuard в конце) с failover и Server Connection Manager (тип линка, Watchdog, Link Monitor). Лицензия AI Assistant Pro даёт ИИ-агента Black Fox Group в чате: после активации можно поручить добавление серверов, установку панели, mesh, домен и диагностику; перед изменением хоста агент спрашивает.
+VPS to VPN — набор для развёртывания и эксплуатации серверов. Операторы в ограниченных сетях поднимают VPN в нескольких локациях на 3X-UI (Sanaei), девяти типах mesh (восемь на Xray, WireGuard в конце) с failover и Server Connection Manager (тип линка, Watchdog, Link Monitor). Лицензия AI Assistant Pro даёт ИИ-агента Fox Next в чате: после активации можно поручить добавление серверов, установку панели, mesh, домен и диагностику; перед изменением хоста агент спрашивает.
 
 Повседневная рутина Linux, SSH, панели, DNS и туннелей сокращается.
 
@@ -20,13 +20,13 @@ VPS to VPN — набор для развёртывания и эксплуат�
 
 | Где | Имя | Роль | Скачать |
 |-----|-----|------|---------|
-| Windows | VPS to VPN | Десктопная консоль | [Setup.zip](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip), [Portable.zip](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) |
-| Android | VPS to VPN Android | Мобильные операции | [APK](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) |
+| Windows | VPS to VPN | Десктопная консоль | [Setup.zip](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip), [Portable.zip](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) |
+| Android | VPS to VPN Android | Мобильные операции | [APK](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) |
 | Android | Black Fox Config Builder | Конфиги клиентов 3X-UI | [APK](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 | Google Play | VPS to VPN Android | Магазин | скоро |
 | macOS | VPS to VPN | Будущая сборка | скоро |
 
-Документация Config Builder: [BlackFoxGroup/blackfox-config-builder](https://github.com/BlackFoxGroup/blackfox-config-builder)
+Документация Config Builder: [Fox-Next/blackfox-config-builder](https://github.com/Fox-Next/blackfox-config-builder)
 
 ---
 
@@ -90,4 +90,4 @@ Pro: DNS Cloudflare и ArvanCloud. Windows Pro ещё CDN (ArvanCloud, Cloudflar
 - [ROADMAP.ru.md](ROADMAP.ru.md)
 - [WHITEPAPER.en.md](WHITEPAPER.en.md)
 
-© Black Fox Security Team
+© Fox Next

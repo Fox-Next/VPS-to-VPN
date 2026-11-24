@@ -4,13 +4,13 @@
 **产品：** VPS to VPN（Windows）、VPS to VPN Android、Black Fox Config Builder  
 **Windows 版本：** v3.2.2（Build 225）  
 **网站：** [https://foxnext.net](https://foxnext.net)  
-**公开仓库：** [https://github.com/BlackFoxGroup/VPS-to-VPN](https://github.com/BlackFoxGroup/VPS-to-VPN)
+**公开仓库：** [https://github.com/Fox-Next/VPS-to-VPN](https://github.com/Fox-Next/VPS-to-VPN)
 
 ---
 
 ## 1. 用途
 
-VPS to VPN 是一套服务器部署和运维工具。受限网络里的运维用它搭多地点 VPN，底层是 3X-UI（Sanaei）、九种 mesh（八种 Xray，WireGuard 最后）加自动 failover，以及 Server Connection Manager（链路类型、Watchdog、Link Monitor）。开通 AI Assistant Pro 后，可在聊天里把加服务器、装面板、mesh、域名和诊断交给 Black Fox Group 智能体；改主机前会先确认。
+VPS to VPN 是一套服务器部署和运维工具。受限网络里的运维用它搭多地点 VPN，底层是 3X-UI（Sanaei）、九种 mesh（八种 Xray，WireGuard 最后）加自动 failover，以及 Server Connection Manager（链路类型、Watchdog、Link Monitor）。开通 AI Assistant Pro 后，可在聊天里把加服务器、装面板、mesh、域名和诊断交给 Fox Next 智能体；改主机前会先确认。
 
 日常重复的 Linux、SSH、面板、DNS、隧道工作会少很多。
 
@@ -20,13 +20,13 @@ VPS to VPN 是一套服务器部署和运维工具。受限网络里的运维用
 
 | 端 | 名称 | 作用 | 下载 |
 |----|------|------|------|
-| Windows | VPS to VPN | 桌面运维控制台 | [Setup.zip](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip)、[Portable.zip](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) |
-| Android | VPS to VPN Android | 手机运维（Basic / Pro） | [APK](https://github.com/BlackFoxGroup/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) |
+| Windows | VPS to VPN | 桌面运维控制台 | [Setup.zip](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Setup.zip)、[Portable.zip](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Portable.zip) |
+| Android | VPS to VPN Android | 手机运维（Basic / Pro） | [APK](https://github.com/Fox-Next/VPS-to-VPN/releases/latest/download/VPS-to-VPN-Android-arm64-v8a-release.apk) |
 | Android | Black Fox Config Builder | 在手机上做 3X-UI 客户配置 | [APK](https://foxnext.net/downloads/Black-Fox-Config-Builder.apk) |
 | Google Play | VPS to VPN Android | 商店 | 即将上线 |
 | macOS | VPS to VPN | 后续桌面版 | 即将上线 |
 
-Config Builder 文档：[BlackFoxGroup/blackfox-config-builder](https://github.com/BlackFoxGroup/blackfox-config-builder)
+Config Builder 文档：[Fox-Next/blackfox-config-builder](https://github.com/Fox-Next/blackfox-config-builder)
 
 ---
 
@@ -84,4 +84,4 @@ Pro 有 Cloudflare、ArvanCloud 的 DNS。Windows Pro 另有 CDN（ArvanCloud、
 - [ROADMAP.zh.md](ROADMAP.zh.md)
 - [WHITEPAPER.en.md](WHITEPAPER.en.md)
 
-© Black Fox Security Team
+© Fox Next
